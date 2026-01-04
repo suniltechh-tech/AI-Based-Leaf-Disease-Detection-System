@@ -68,7 +68,6 @@ Result is displayed to the user
 
 🚀 Installation & Execution
 Step 1: Clone the Repository
-git clone https://github.com/your-username/Leaf-Disease-Detection-System.git
 
 Step 2: Install Dependencies
 pip install -r requirements.txt
@@ -92,6 +91,6 @@ Improve accuracy using transfer learning
 
 Deploy as a mobile or web application
 
-Provide disease treatment suggestions
 
-👨‍💻 Author
+
+
